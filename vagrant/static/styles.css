@@ -1,10 +1,18 @@
 #heading{
     color :#dd727a;
-    text-shadow: 15px 10px black;
+
 }
 #menu-color{
     color:#FF355E;
 }
 #menu-name{
     color:#2af73b ;
+}
+.pane {
+    position: absolute;
+    border: 2px solid;
+    border-radius: 25px;
+    padding: 5px;
+    margin: 5px;
+    border-color: #999999
 }
